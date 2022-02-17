@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @personnamedmike
-- 💻 Software engineering student at Flatiron school
-- Technologies: JavaScript, HTML, CSS
+- 💻 Software engineer | Student at Flatiron school
+- Technologies: JavaScript, React, HTML, CSS
 - 🌱 My future is within the blockchain industry
 - 💞️ I’m looking to collaborate on (anything - hit me with your best ideas).
 - 📫 How to reach me ... imhs@protonmail.com
