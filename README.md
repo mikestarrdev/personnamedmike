@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PersonNamedMike
 - 💻 fullstack engineer
-- JavaScript, React, Solidity, Ethers.js, Ruby, Rails, CSS, HTML
-- 🌱 Blockchain enthusiast
+- Proficient: JavaScript , React, CSS, HTML
+- Knowledgeable: Solidity, Ethers.js, Ruby, Rails
+- 🌱 Blockchain / Web3 enthusiast
 - 💞️ Interested in contributing to open source
 - 📫 Contact: imhs@protonmail.com
 <!---
