@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @PersonNamedMike
+- 👋 Hi, I’m @starrdev
 - 💻 fullstack engineer
-- Proficient: JavaScript , React, CSS, HTML
-- Knowledgeable: Solidity, Ethers.js, Ruby, Rails
+- Technologies: JavaScript, React, HTML5, CSS, TailwindCSS, Ruby on Rails, Ethers.js
 - 🌱 Blockchain / Web3 enthusiast
-- 💞️ Interested in contributing to open source
 - 📫 Contact: imhs@protonmail.com
 <!---
 personnamedmike/personnamedmike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
