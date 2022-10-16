@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @starrdev
-- 💻 fullstack engineer
-- Technologies: JavaScript, React, HTML5, CSS, TailwindCSS, Ruby on Rails, Ethers.js
-- 🌱 Blockchain / Web3 enthusiast
+- 💻 software developer
+- Technologies: JavaScript, React, HTML5, CSS, Ruby on Rails
 - 📫 Contact: imhs@protonmail.com
 <!---
 personnamedmike/personnamedmike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
