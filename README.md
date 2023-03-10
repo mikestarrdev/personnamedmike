@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @starrdev
-- 💻 Front-end web developer
-- JavaScript, React, CSS, TailwindCSS, Ethers.js, HTML5
+- 💻 Front-end developer building web3 frontends
+- JavaScript, TypeScript, React, CSS, Ethers.js, HTML5
 - 📫 Contact: imhs@protonmail.com
 <!---
 personnamedmike/personnamedmike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
