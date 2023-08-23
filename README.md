@@ -1,4 +1,4 @@
-Hello! I'm @starrdev, a frontend developer specializing in TypeScript and JavaScript, with a deep expertise in the React framework, and proficiency in CSS and HTML. My passion lies in building web3 apps and continually embracing new technologies to stay at the forefront of the digital landscape.
+Hello! I'm Mike, a frontend developer specializing in TypeScript and JavaScript, with a deep expertise in the React framework, and proficiency in CSS and HTML. My passion lies in building web3 apps and continually embracing new technologies to stay at the forefront of the digital landscape.
 
 Away from the keyboard, I'm an avid mountain climber - a pursuit that enhances my problem-solving skills and mirrors my approach to overcoming tech challenges. I'm a firm believer in lifelong learning, a principle that's indispensable in our fast-paced, dynamic tech world.
 
