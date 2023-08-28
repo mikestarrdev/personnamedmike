@@ -11,6 +11,8 @@ Let's connect!
 - 🐦 [Twitter](https://twitter.com/starr_dev)
 - 📧 [Email](mailto:starrdev@proton.me)
 
+[![Mike Starr's GitHub stats](https://github-readme-stats.vercel.app/api?username=personnamedmike&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 personnamedmike/personnamedmike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
