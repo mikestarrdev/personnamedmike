@@ -20,11 +20,13 @@ Languages and tools I use:
 [![Git Logo](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 
 Let's connect!
+- [<img src="https://cdn.discordapp.com/attachments/1130564519735857263/1146123647724044369/linkedin-logo.png" alt="LinkedIn" height="20"> LinkedIn](https://linkedin.com/in/mike-starr)
+- [<img src="https://cdn.discordapp.com/attachments/1130564519735857263/1146123647954718800/twitter-logo.png" alt="Twitter" height="20"> Twitter](https://twitter.com/starr_dev)
+- 🧑‍💼 [Portfolio](https://mikestarr.tech)
+- [<img src="https://cdn.discordapp.com/attachments/1130564519735857263/1146123647434641459/email-logo.png" alt="Email" height="20"> Email](mailto:starrdev@proton.me)
 
-- 🧑‍💼 [LinkedIn](https://linkedin.com/in/mike-starr)
-- 💻 [Portfolio](https://mikestarr.tech)
-- 🐦 [Twitter](https://twitter.com/starr_dev)
-- 📧 [Email](mailto:starrdev@proton.me)
+
+
 
 [![Mike Starr's GitHub stats](https://github-readme-stats.vercel.app/api?username=personnamedmike&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
